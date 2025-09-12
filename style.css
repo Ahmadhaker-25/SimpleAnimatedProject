@@ -11,7 +11,7 @@
 .main-container {
     width: 100%;
     height: 100vh;
-    animation: 15s bgamination ease-in-out infinite 15s;
+    animation: 9s bgamination ease-in-out infinite 9s;
     display: flex;
     flex-direction: column;
 }
